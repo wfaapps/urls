@@ -1,12 +1,12 @@
 {
   "version": 1,
   "allowed": [
-    "https://ps.uci.edu/~franklin/doc/file_upload.html",
-    "https://practice.expandtesting.com/upload",
-    "https://www.dragdrop.com/test",
-    "https://www.file.io/"
+    "https://*.gov.in/*",
+    "https://*.nic.in/*",
+    "https://*.ecourts.gov.in/*",
+    "https://services.ecourts.gov.in/"
   ],
-  "max_upload_size_mb": 3,
+  "max_upload_size_mb": 1,
   "allowed_extensions": [
     ".pdf",
     ".docx",
@@ -17,5 +17,7 @@
     ".mp3",
     ".wav",
     ".aac"
-  ]
+  ],
+  "clipboard_max_paste_bytes": 1024,
+  "clipboard_restriction_enabled": true
 }
