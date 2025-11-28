@@ -3,13 +3,19 @@
   "allowed": [
     "https://*.gov.in/*",
     "https://*.nic.in/*",
+    "https://*.ecourts.gov.in/*",
     "https://services.ecourts.gov.in/"
   ],
   "max_upload_size_mb": 1,
   "allowed_extensions": [
     ".pdf",
+    ".docx",
+    ".doc",
     ".jpg",
-    ".jpeg",
-    ".png"
+    ".png",
+    ".eml",
+    ".mp3",
+    ".wav",
+    ".aac"
   ]
 }
