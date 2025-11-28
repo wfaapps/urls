@@ -18,6 +18,6 @@
     ".wav",
     ".aac"
   ],
-  "clipboard_max_paste_bytes": 1024,
+  "clipboard_max_paste_bytes": 102,
   "clipboard_restriction_enabled": true
 }
