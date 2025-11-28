@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "allowed": [
+    "https://*.gov.in/*",
+    "https://*.nic.in/*",
+    "https://services.ecourts.gov.in/"
+  ],
+  "max_upload_size_mb": 1,
+  "allowed_extensions": [
+    ".pdf",
+    ".jpg",
+    ".jpeg",
+    ".png"
+  ]
+}
