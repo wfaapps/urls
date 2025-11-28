@@ -1,10 +1,9 @@
 {
   "version": 1,
   "allowed": [
-    "https://*.gov.in/*",
-    "https://*.nic.in/*",
-    "https://*.ecourts.gov.in/*",
-    "https://services.ecourts.gov.in/"
+    "https://ps.uci.edu/~franklin/doc/file_upload.html",
+    "https://practice.expandtesting.com/upload",
+    "https://www.file.io/"
   ],
   "max_upload_size_mb": 1,
   "allowed_extensions": [
