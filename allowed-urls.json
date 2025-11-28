@@ -6,7 +6,7 @@
     "https://www.dragdrop.com/test",
     "https://www.file.io/"
   ],
-  "max_upload_size_mb": 1,
+  "max_upload_size_mb": 3,
   "allowed_extensions": [
     ".pdf",
     ".docx",
