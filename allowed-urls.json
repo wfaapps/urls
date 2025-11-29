@@ -4,6 +4,7 @@
     "https://*.gov.in/*",
     "https://*.nic.in/*",
     "https://*.ecourts.gov.in/*",
+    "https://*.google.com/*",
     "https://services.ecourts.gov.in/"
   ],
   "max_upload_size_mb": 1,
