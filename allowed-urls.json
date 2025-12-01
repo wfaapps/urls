@@ -7,7 +7,7 @@
   "block_list": [
     "https://onlinenotepad.org/*",
     "https://www.onlinenotepad.org/*",
-    "https://www.file.io/",
+    "https://www.file.io/*",
     "https://file.kiwi/*"
   ],
   "max_upload_size_mb": 1,
