@@ -1,22 +1,16 @@
 {
-  "version": 1,
   "allowed": [
     "https://*.gov.in/*",
     "https://*.nic.in/*",
-    "https://*.ecourts.gov.in/*",
-    "https://*.google.com/*",
-    "https://services.ecourts.gov.in/"
+    "https://services.ecourts.gov.in/*"
+  ],
+  "block_list": [
+    "https://onlinenotepad.org/*",
+    "https://www.onlinenotepad.org/*",
+    "https://file.kiwi/*"
   ],
   "max_upload_size_mb": 1,
   "allowed_extensions": [
-    ".pdf",
-    ".docx",
-    ".doc",
-    ".jpg",
-    ".png",
-    ".eml",
-    ".mp3",
-    ".wav",
-    ".aac"
+    ".pdf", ".docx", ".doc", ".jpg", ".png", ".eml", ".mp3", ".wav", ".aac"
   ]
 }
